@@ -2,6 +2,7 @@ Hi there, I'm Ahmer Gondal! 👋
 I'm a Full Stack Software Developer, tech enthusiast, and open source advocate. I write code, build applications, and hit the gym. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
 🔭 I’m currently working on enhancing my MERN skills.
+
 🌱 I’m currently diving deeper into software development.
 
 👯 I’m looking to collaborate on open source projects and tech communities.
@@ -11,9 +12,13 @@ I'm a Full Stack Software Developer, tech enthusiast, and open source advocate. 
 💬 Ask me about JavaScript, Python, or any tech-related stuff.
 
 📫 How to reach me: gondal.ahmer@yahoo.com
+
 ⚡ Fun fact: I can type at 200 words per minute!
+
 🚀 Some of My Awesome Projects
+
 🌟 MERN Anime Site
+
 A full-featured anime streaming site built with the MERN stack (MongoDB, Express.js, React, Node.js).
 Features include real-time search, user authentication, and complex data management.
 Implemented robust error handling and an intuitive user interface.
