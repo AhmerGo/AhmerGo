@@ -37,9 +37,8 @@ Significantly reduced manual workload and improved response times.
 Find the project here!
 
 🛠️ Languages & Tools:
-yaml
 Languages: Java, JavaScript, Python, TypeScript, HTML, CSS, SQL
-Development: Node.js, React, Redux, Express, MongoDB, Django, PrimeFaces, Spring
+Development: Node.js, React, Redux, Express, MongoDB, Django, PrimeFaces, Spring, Selenium
 DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
 Tools: GIT, Webpack, NPM, Yarn
 Design: Adobe XD, Photoshop, Sketch
@@ -51,5 +50,7 @@ Design: Adobe XD, Photoshop, Sketch
 [Email_Bot_Repo](https://github.com/AhmerGo/Discord_Email_Bot)
 
 🤝 Connect with Me
+
 Portfolio: [Portfolio](ahmerg.com)
+
 LinkedIn: [Linked-IN](https://www.linkedin.com/in/ahmer-gondal-0a360210b/)
