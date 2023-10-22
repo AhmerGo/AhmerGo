@@ -16,7 +16,7 @@ I'm a Full Stack Software Developer, tech enthusiast, and open source advocate. 
 ⚡ Fun fact: I can type at 200 words per minute!
 
 🚀 Some of My Awesome Projects
-
+https://i.gyazo.com/dda1184d57ed0e949b797a7fe065b9b6.mp4
 🌟 MERN Anime Site
 A full-featured anime streaming site built with the MERN stack (MongoDB, Express.js, React, Node.js).
 Features include real-time search, user authentication, and complex data management.
@@ -44,8 +44,8 @@ Design: Adobe XD, Photoshop, Sketch
 
 
 📌 Pinned Repositories
-[ReadMe_Card](https://github.com/AhmerGo/Anime_Site_Go)
-[ReadMe Card](https://github.com/AhmerGo/Discord_Email_Bot)
+[Anime_Site_Repo](https://github.com/AhmerGo/Anime_Site_Go)
+[Email_Bot_Repo](https://github.com/AhmerGo/Discord_Email_Bot)
 
 🤝 Connect with Me
 Portfolio: ahmerg.com
