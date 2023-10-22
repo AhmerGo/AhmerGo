@@ -20,6 +20,7 @@ I'm a Full Stack Software Developer, tech enthusiast, and open source advocate. 
 
 
 🌟 MERN Anime Site
+
 A full-featured anime streaming site built with the MERN stack (MongoDB, Express.js, React, Node.js).
 Features include real-time search, user authentication, and complex data management.
 Implemented robust error handling and an intuitive user interface.
@@ -29,14 +30,25 @@ Check it out here!
 
 
 🌟 Automated Shell Scripting
+
 Automated various daily tasks using Bash scripting, increasing productivity and efficiency.
 Implemented scripts for system backups, application deployment, and performance monitoring.
 More details here!
 
+![Blog](https://i.gyazo.com/393eefc0656fb9748462baa1abea0f75.png)
+
+
+
+
 🌟 Email Bots Coded in Python
+
 Developed Python scripts to automate email conversations, data extraction, and report generation.
 Significantly reduced manual workload and improved response times.
 Find the project here!
+
+![Bot](https://i.gyazo.com/4539b1e21c9edb5d0ae4eda851f74f37.png)
+
+
 
 🛠️ Languages & Tools:
 
