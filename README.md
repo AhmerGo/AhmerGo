@@ -17,7 +17,6 @@ I'm a Full Stack Software Developer, tech enthusiast, and open source advocate. 
 
 🚀 Some of My Awesome Projects
 
-![My cool gif](https://i.gyazo.com/dda1184d57ed0e949b797a7fe065b9b6.gif)
 
 
 🌟 MERN Anime Site
@@ -25,6 +24,9 @@ A full-featured anime streaming site built with the MERN stack (MongoDB, Express
 Features include real-time search, user authentication, and complex data management.
 Implemented robust error handling and an intuitive user interface.
 Check it out here!
+
+![My cool gif](https://i.gyazo.com/dda1184d57ed0e949b797a7fe065b9b6.gif)
+
 
 🌟 Automated Shell Scripting
 Automated various daily tasks using Bash scripting, increasing productivity and efficiency.
@@ -37,16 +39,23 @@ Significantly reduced manual workload and improved response times.
 Find the project here!
 
 🛠️ Languages & Tools:
+
 Languages: Java, JavaScript, Python, TypeScript, HTML, CSS, SQL
+
 Development: Node.js, React, Redux, Express, MongoDB, Django, PrimeFaces, Spring, Selenium
+
 DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
+
 Tools: GIT, Webpack, NPM, Yarn
+
 Design: Adobe XD, Photoshop, Sketch
 
 
 
 📌 Pinned Repositories
+
 [Anime_Site_Repo](https://github.com/AhmerGo/Anime_Site_Go)
+
 [Email_Bot_Repo](https://github.com/AhmerGo/Discord_Email_Bot)
 
 🤝 Connect with Me
