@@ -17,9 +17,8 @@ I'm a Full Stack Software Developer, tech enthusiast, and open source advocate. 
 
 🚀 Some of My Awesome Projects
 
+![My cool gif](https://i.gyazo.com/dda1184d57ed0e949b797a7fe065b9b6.gif)
 
-![My cool gif]([https://media.giphy.com/media/cool-gif-id/giphy.gif](https://i.gyazo.com/dda1184d57ed0e949b797a7fe065b9b6.gif
-)
 
 🌟 MERN Anime Site
 A full-featured anime streaming site built with the MERN stack (MongoDB, Express.js, React, Node.js).
@@ -52,5 +51,5 @@ Design: Adobe XD, Photoshop, Sketch
 [Email_Bot_Repo](https://github.com/AhmerGo/Discord_Email_Bot)
 
 🤝 Connect with Me
-Portfolio: ahmerg.com
-LinkedIn: [your-linkedin](https://www.linkedin.com/in/ahmer-gondal-0a360210b/)
+Portfolio: [Portfolio](ahmerg.com)
+LinkedIn: [Linked-IN](https://www.linkedin.com/in/ahmer-gondal-0a360210b/)
