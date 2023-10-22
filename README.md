@@ -3,9 +3,13 @@ I'm a Full Stack Software Developer, tech enthusiast, and open source advocate. 
 
 🔭 I’m currently working on enhancing my MERN skills.
 🌱 I’m currently diving deeper into software development.
+
 👯 I’m looking to collaborate on open source projects and tech communities.
+
 🤔 I’m looking for help with finding new inspiring projects.
+
 💬 Ask me about JavaScript, Python, or any tech-related stuff.
+
 📫 How to reach me: gondal.ahmer@yahoo.com
 ⚡ Fun fact: I can type at 200 words per minute!
 🚀 Some of My Awesome Projects
