@@ -72,6 +72,6 @@ Design: Adobe XD, Photoshop, Sketch
 
 🤝 Connect with Me
 
-[Portfolio](ahmerg.com)
+[Portfolio](www.ahmerg.com)
 
 [Linked-In](https://www.linkedin.com/in/ahmer-gondal-0a360210b/)
